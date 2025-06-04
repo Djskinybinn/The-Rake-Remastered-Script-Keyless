@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Djskinybinn/Rake/refs/heads/main/RakeScript?token=GHSAT0AAAAAADE7Q27YIXLLDCP5ZCRLPPW62B7W7PQ",true))()
